@@ -1,3 +1,4 @@
+![oci](https://user-images.githubusercontent.com/48319188/107972839-b700a000-6fb4-11eb-9553-b7bb627b9183.png)
 # Formation-Mlflow-OrangeCI
 Prise en main de Mlflow pour la gestion du cycle de vie des modèles de machine learning
 
