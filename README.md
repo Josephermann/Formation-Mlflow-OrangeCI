@@ -22,6 +22,12 @@ Avant de commencer il fraudrait:
 	 source venv/bin/activate
 	 pip install -r requirements.txt 
 	 ```
+ ou sur windows
+	 ```
+	 python -m venv venv_path
+	 source venv/Scripts/activate
+	 pip install -r requirements.txt 
+	 ```
 
 - [x] Vous pouvez maintenant commencer à coder dans jupyter notebook, en exécutant la commande:
 
