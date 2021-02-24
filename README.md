@@ -15,15 +15,16 @@ Avant de commencer il fraudrait:
 	 mlflow      == 1.6.0
 	 jupyter     == 1.0.0
 
-- [x] Créer, activer et installer les dépendances dans l'environnement virtuel:
+- [x] Créer, activer et installer les dépendances dans l'environnement virtuel sous linus:
 
 	```
 	 virtualenv venv
 	 source venv/bin/activate
 	 pip install -r requirements.txt 
 	 ```
- ou sur windows
-	 ```
+- [x] Créer, activer et installer les dépendances dans l'environnement virtuel sur window:
+
+	```
 	 python -m venv venv_path
 	 source venv/Scripts/activate
 	 pip install -r requirements.txt 
